@@ -1,0 +1,16 @@
+.tabs {
+    margin-bottom: 1rem;
+  }
+  
+  .tab-button {
+    margin-right: 0.5rem;
+  }
+  
+  .product-table {
+    width: 100%;
+  }
+  
+  .product-table th, .product-table td {
+    text-align: left;
+  }
+  
